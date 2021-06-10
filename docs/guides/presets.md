@@ -18,7 +18,7 @@
 After you have completed the form, the layout preview will be populated with live data. You can now tailor the layout as
 desired by updating the preview or the filter component in the page sidebar.
 
-Each preset saves all of the information needed to recreate a view of the collection/layou, including: the full-text
+Each preset saves all of the information needed to recreate a view of the collection/layout, including: the full-text
 search query, any advanced filters added, sort field, sort direction, and all other specific layout options.
 
 ::: tip Defaults vs Bookmarks
